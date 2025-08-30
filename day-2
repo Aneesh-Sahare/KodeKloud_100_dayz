@@ -1,0 +1,11 @@
+#establishing-ssh-connection
+ssh <username>@<ip-address>
+
+#Create-temporary-user 
+sudo useradd -e <yyyy-mm-dd> <temp-username>  
+
+#check-if-user-created
+cat /etc/passwd
+
+#Disconnect-ssh-connection
+exit  
