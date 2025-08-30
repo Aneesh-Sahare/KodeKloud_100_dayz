@@ -1,0 +1,5 @@
+#Connect-to-the-remote-server
+ssh <username>@<ip-address>
+
+#create-user-
+sudo useradd -s /sbin/nologin <new-username>
